@@ -40,12 +40,12 @@ My research focuses on AI and data science methods to identify and understand th
 ## We are hiring!!
 * 3 x Machine Learning Engineers/Researchers:
   * [UKRI Salary Band D (Early career researcher)](https://www.bas.ac.uk/jobs/vacancy/machine-learning-engineer-researcher-environmental-science-band-d/)
-  * [UKRI Salary Band E (Experienced researcher)]((https://www.bas.ac.uk/jobs/vacancy/machine-learning-engineer-researcher-environmental-science-band-e/))
+  * [UKRI Salary Band E (Experienced researcher)](https://www.bas.ac.uk/jobs/vacancy/machine-learning-engineer-researcher-environmental-science-band-e/)
 * 1 x [Research Software Engineer](https://www.bas.ac.uk/jobs/vacancy/it-research-software-engineer/)
 * 1 x [HPC Support Engineer](https://www.bas.ac.uk/jobs/vacancy/hpc-support-engineer/)
 
 ## Studentships
-As my [group](/group) has quickly grown this past year I am currently unable to take on any new Masters or PhD students. However, please feel free to reach out directly to my [science colleagues at BAS](https://www.bas.ac.uk/about/about-bas/our-organisation/our-science-teams/) if you are interested in doing a research project together with the [BAS AI Lab](https://www.bas.ac.uk/project/ai).
+As my [group](/group) has quickly grown this past year I am currently unable to take on any new Masters or PhD students. However, please feel free to reach out directly to my [science colleagues at BAS](https://www.bas.ac.uk/about/about-bas/our-organisation/our-science-teams/) if you are interested in doing a research project together with the [BAS AI Lab](https://www.bas.ac.uk/project/ai). You can find information on PhD funding on our [AI4ER CDT webpage](https://ai4er-cdt.esc.cam.ac.uk/).
 
 ## Highlights
 {% include feature_row %}
