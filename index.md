@@ -51,20 +51,27 @@ As my [group](/group) has quickly grown this past year I am currently unable to 
 {% include feature_row %}
 
 ## News
-<!-- 2021/04 - Appointed as a NERC Constructing a Digital Environment (CDE) Senior Expert -->
+<!-- **2021/04** - Appointed as a NERC Constructing a Digital Environment (CDE) Senior Expert -->
+
 **2021/04** - Started sharing the role of Leader of the BAS AI Lab with Professor Maria Fox
 
 **2021/03** - Presented at the [AI UK](https://www.turing.ac.uk/ai-uk) 2021 showcase event
 
 **2021/02** - Become Principle Investigator (PI) to a new large multi-institution research programme, _"Environmental models: Bridging the spatial scales, from surface sensors to satellite sensors"_
 
+**2020/10** - Joined the committee for the [Environment and Sustainability Interest Group](https://www.turing.ac.uk/research/interest-groups/environment-and-sustainability), The Alan Turing Institute
+
 **2020/09** - Promoted to UKRI Band F, ~equivalent to Reader/Associate Professor
+
+**2020/06** - Joined The Alan Turing Institute-UK Met Office Steering Committee
 
 **2020/04** - Seconded to [The Alan Turing Institute](https://www.turing.ac.uk/) to lead the Environmental Theme under the [Data Science for Science programme](https://www.turing.ac.uk/research/research-programmes/data-science-science)
 
-**2019/04** - Started new role as Co-Director for the UKRI Centre for Doctoral Training in the Application of AI to the study of Environmental Risks (AI4ER)
+**2020/04** - Appointed BAS Science Group Leader, AI for Climate Science
 
-**2018/06** - Established and became Leader of the [BAS AI Lab](http://www.bas.ac.uk/ai)
+**2019/04** - Started new role as Co-Director for the UKRI Centre for Doctoral Training in the [Application of AI to the study of Environmental Risks](https://ai4er-cdt.esc.cam.ac.uk/) (AI4ER), led by University of Cambridge and BAS
+
+**2018/06** - Established and self-appointed Leader of the [BAS AI Lab](http://www.bas.ac.uk/ai)
 
 **2017/09** - Awarded The Laws Prize, British Antarctic Survey Club
 
@@ -72,7 +79,7 @@ As my [group](/group) has quickly grown this past year I am currently unable to 
 
 **2011/01** - Co-founded and became board member for the [Cambridge Centre for Climate Science](https://www.climatescience.cam.ac.uk/) (CCfCS)
 
-**2009/12** - Joined BAS as a "Global Climate Modeller" (NERC Band 6, _equivalent to UKRI Band D_)
+**2009/12** - Joined British Antarctic Survey (BAS) as a "Global Climate Modeller", open-ended position (NERC Band 6, _equivalent to UKRI Band D_)
 
 **2009/09** - Submitted PhD Thesis, [_"The impact of deep convection on the structure of, and transport through, the tropical tropopause layer"_](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.604249), University of Cambridge, UK
 
