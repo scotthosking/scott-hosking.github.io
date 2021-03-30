@@ -57,7 +57,7 @@ As my [group](/group) has quickly grown this past year I am currently unable to 
 
 **2021/03** - Presented at the [AI UK](https://www.turing.ac.uk/ai-uk) 2021 showcase event
 
-**2021/02** - Become Principle Investigator (PI) to a new multi-institution research programme, _"Environmental models: Bridging the spatial scales, from surface sensors to satellite sensors"_
+**2021/02** - Became Principal Investigator (PI) to a new multi-institution research programme, _"Environmental models: Bridging the spatial scales, from surface sensors to satellite sensors"_
 
 **2020/10** - Joined the Steering Committee for the [Environment and Sustainability Interest Group](https://www.turing.ac.uk/research/interest-groups/environment-and-sustainability), The Alan Turing Institute
 
@@ -75,7 +75,7 @@ As my [group](/group) has quickly grown this past year I am currently unable to 
 
 **2018/06** - Established and self-appointed Leader of the [BAS Artificial Intelligence (AI) Lab](http://www.bas.ac.uk/ai)
 
-**2017/09** - Awarded The Laws Prize, British Antarctic Survey Club
+**2017/09** - Awarded [The Laws Prize](https://basclub.org/about/the-laws-prize/), British Antarctic Survey Club
 
 **2016/09** - Promoted to UKRI Band E, ~equivalent to Lecturer. Changed role to _"Environmental Data Scientist"_
 
