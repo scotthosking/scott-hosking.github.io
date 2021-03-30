@@ -69,7 +69,7 @@ As my [group](/group) has quickly grown this past year I am currently unable to 
 
 **2020/04** - Appointed BAS Science Group Leader, _"AI for Climate Science"_
 
-**2020/02** - Presented at a industry focused workshop [_"Business Risk from Climate Change"_](https://www.jbs.cam.ac.uk/faculty-research/centres/risk/news-events/events/2020-events/business-risk-from-climate-change/), Judge Business School, Cambridge
+**2020/02** - Presented at a industry-focused workshop [_"Business Risk from Climate Change"_](https://www.jbs.cam.ac.uk/faculty-research/centres/risk/news-events/events/2020-events/business-risk-from-climate-change/), Judge Business School, Cambridge
 
 **2019/04** - Started new role as Co-Director for the UKRI Centre for Doctoral Training in the [Application of AI to the study of Environmental Risks](https://ai4er-cdt.esc.cam.ac.uk/) (AI4ER), led by University of Cambridge and BAS
 
@@ -77,11 +77,11 @@ As my [group](/group) has quickly grown this past year I am currently unable to 
 
 **2017/09** - Awarded The Laws Prize, British Antarctic Survey Club
 
-**2016/09** - Promoted to UKRI Band E, ~equivalent to Lecturer. Changed role to "Environmental Data Scientist"
+**2016/09** - Promoted to UKRI Band E, ~equivalent to Lecturer. Changed role to _"Environmental Data Scientist"_
 
 **2011/01** - Co-founded and became board member for the [Cambridge Centre for Climate Science](https://www.climatescience.cam.ac.uk/) (CCfCS)
 
-**2009/12** - Joined British Antarctic Survey (BAS) as a "Global Climate Modeller", open-ended position (NERC Band 6, _equivalent to UKRI Band D_)
+**2009/12** - Joined British Antarctic Survey (BAS) as a _"Global Climate Modeller"_, tenured/open-ended position (NERC Band 6, ~equivalent to Post-doctoral Research Associate)
 
 **2009/09** - Submitted PhD Thesis, [_"The impact of deep convection on the structure of, and transport through, the tropical tropopause layer"_](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.604249), University of Cambridge, UK
 
