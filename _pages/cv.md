@@ -23,8 +23,8 @@ toc: True
     *  _awarded to outstanding young scientists of the British Antarctic Survey in recognition of their achievements, whilst fulfilling the primary purpose of the British Antarctic Survey_
 
 ## Other Roles
-* Commitee Member, [Environment and Sustainability Interest Group](https://www.turing.ac.uk/research/interest-groups/environment-and-sustainability), The Alan Turing Institute, 2020-
-* Committee Member, The Alan Turing Institute-UK Met Office Steering Committee, 2020-
+* Committee Member, [Environment and Sustainability Interest Group](https://www.turing.ac.uk/research/interest-groups/environment-and-sustainability), The Alan Turing Institute, 2020-
+* Committee Member, [The Alan Turing Institute-UK Met Office Operational Alliance](https://www.metoffice.gov.uk/about-us/press-office/news/corporate/2020/alan-turing-institute), 2020-
 * Chair, [AI4ER](https://ai4er-cdt.esc.cam.ac.uk/) Research Committee, University of Cambridge, 2019-2020
 * Board member, [Cambridge Centre for Climate Science](https://www.climatescience.cam.ac.uk/), University of Cambridge, 2011-
 * Committee Member, [Net Zero Oceanographic Capability (NZOC)](https://projects.noc.ac.uk/nzoc/), a £250k scoping project funded by NERC to inform planning for the future low carbon oceanographic research capability in line with UKRI’s objectives of becoming a net zero organisation, 2020 

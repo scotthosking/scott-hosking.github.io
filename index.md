@@ -59,11 +59,11 @@ As my [group](/group) has quickly grown this past year I am currently unable to 
 
 **2021/02** - Become Principle Investigator (PI) to a new large multi-institution research programme, _"Environmental models: Bridging the spatial scales, from surface sensors to satellite sensors"_
 
-**2020/10** - Joined the committee for the [Environment and Sustainability Interest Group](https://www.turing.ac.uk/research/interest-groups/environment-and-sustainability), The Alan Turing Institute
+**2020/10** - Joined the Steering Committee for the [Environment and Sustainability Interest Group](https://www.turing.ac.uk/research/interest-groups/environment-and-sustainability), The Alan Turing Institute
 
 **2020/09** - Promoted to UKRI Band F, ~equivalent to Reader/Associate Professor
 
-**2020/06** - Joined The Alan Turing Institute-UK Met Office Steering Committee
+**2020/06** - Joined the Steering Committee for the [Alan Turing Institute-UK Met Office operational alliance](https://www.metoffice.gov.uk/about-us/press-office/news/corporate/2020/alan-turing-institute)
 
 **2020/04** - Seconded to [The Alan Turing Institute](https://www.turing.ac.uk/) to lead the Environmental Theme under the [Data Science for Science programme](https://www.turing.ac.uk/research/research-programmes/data-science-science)
 
