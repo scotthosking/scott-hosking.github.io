@@ -67,11 +67,13 @@ As my [group](/group) has quickly grown this past year I am currently unable to 
 
 **2020/04** - Seconded to [The Alan Turing Institute](https://www.turing.ac.uk/) to lead the Environmental Theme under the [Data Science for Science programme](https://www.turing.ac.uk/research/research-programmes/data-science-science)
 
-**2020/04** - Appointed BAS Science Group Leader, AI for Climate Science
+**2020/04** - Appointed BAS Science Group Leader, _"AI for Climate Science"_
+
+**2020/02** - Presented at a industry focused workshop [_"Business Risk from Climate Change"_](https://www.jbs.cam.ac.uk/faculty-research/centres/risk/news-events/events/2020-events/business-risk-from-climate-change/), Judge Business School, Cambridge
 
 **2019/04** - Started new role as Co-Director for the UKRI Centre for Doctoral Training in the [Application of AI to the study of Environmental Risks](https://ai4er-cdt.esc.cam.ac.uk/) (AI4ER), led by University of Cambridge and BAS
 
-**2018/06** - Established and self-appointed Leader of the [BAS AI Lab](http://www.bas.ac.uk/ai)
+**2018/06** - Established and self-appointed Leader of the [BAS Artificial Intelligence (AI) Lab](http://www.bas.ac.uk/ai)
 
 **2017/09** - Awarded The Laws Prize, British Antarctic Survey Club
 
