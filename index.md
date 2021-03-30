@@ -51,13 +51,13 @@ As my [group](/group) has quickly grown this past year I am currently unable to 
 {% include feature_row %}
 
 ## News
-<!-- **2021/04** - Appointed as a NERC Constructing a Digital Environment (CDE) Senior Expert -->
+<!-- **2021/04** - Appointed as a Senior Expert to the [NERC Constructing a Digital Environment (CDE) Programme](https://digitalenvironment.org/)  -->
 
 **2021/04** - Started sharing the role of Leader of the BAS AI Lab with Professor Maria Fox
 
 **2021/03** - Presented at the [AI UK](https://www.turing.ac.uk/ai-uk) 2021 showcase event
 
-**2021/02** - Become Principle Investigator (PI) to a new large multi-institution research programme, _"Environmental models: Bridging the spatial scales, from surface sensors to satellite sensors"_
+**2021/02** - Become Principle Investigator (PI) to a new multi-institution research programme, _"Environmental models: Bridging the spatial scales, from surface sensors to satellite sensors"_
 
 **2020/10** - Joined the Steering Committee for the [Environment and Sustainability Interest Group](https://www.turing.ac.uk/research/interest-groups/environment-and-sustainability), The Alan Turing Institute
 
