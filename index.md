@@ -56,24 +56,24 @@ As my [group](/group) has quickly grown this past year I am currently unable to 
 
 **2021/03** - Presented at the [AI UK](https://www.turing.ac.uk/ai-uk) 2021 showcase event
 
-**2021/02** - PI to a new large research programme, "Environmental models: Bridging the spatial scales, from surface sensors to satellite sensors"
+**2021/02** - Become Principle Investigator (PI) to a new large multi-institution research programme, _"Environmental models: Bridging the spatial scales, from surface sensors to satellite sensors"_
 
-**2020/09** - Promoted to UKRI Band F, ~equivalent to Associate Professor
+**2020/09** - Promoted to UKRI Band F, ~equivalent to Reader/Associate Professor
 
-**2020/04** - Seconded to The Alan Turing Institute to lead the Environmental Theme under the Data Science for Science programme
+**2020/04** - Seconded to [The Alan Turing Institute](https://www.turing.ac.uk/) to lead the Environmental Theme under the [Data Science for Science programme](https://www.turing.ac.uk/research/research-programmes/data-science-science)
 
 **2019/04** - Started new role as Co-Director for the UKRI Centre for Doctoral Training in the Application of AI to the study of Environmental Risks (AI4ER)
 
-**2018/06** - Established and became Leader of the BAS AI Lab
+**2018/06** - Established and became Leader of the [BAS AI Lab](http://www.bas.ac.uk/ai)
 
 **2017/09** - Awarded The Laws Prize, British Antarctic Survey Club
 
 **2016/09** - Promoted to UKRI Band E, ~equivalent to Lecturer. Changed role to "Environmental Data Scientist"
 
-**2009/12** - Joined BAS as a "Global Climate Modeller" (NERC Band 6, now UKRI Band D)
+**2011/01** - Co-founded and became board member for the [Cambridge Centre for Climate Science](https://www.climatescience.cam.ac.uk/) (CCfCS)
 
-**2011/01** - Co-founded and became board member for the Cambridge Centre for Climate Science (CCfCS)
+**2009/12** - Joined BAS as a "Global Climate Modeller" (NERC Band 6, _equivalent to UKRI Band D_)
 
-**2009/09** - Submitted PhD Thesis
+**2009/09** - Submitted PhD Thesis, [_"The impact of deep convection on the structure of, and transport through, the tropical tropopause layer"_](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.604249), University of Cambridge, UK
 
-**2005/09** - Started PhD at the University of Cambridge, UK, under the supervision of Prof John Pyle FRS
+**2005/09** - Started PhD at the University of Cambridge, UK, under the supervision of [Prof John Pyle FRS](https://www.ch.cam.ac.uk/person/jap12). Funded by the [NERC e-Science Programme](https://nerc.ukri.org/research/funded/programmes/escience/)
