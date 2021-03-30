@@ -61,7 +61,7 @@ As my [group](/group) has quickly grown this past year I am currently unable to 
 
 **2020/10** - Joined the Steering Committee for the [Environment and Sustainability Interest Group](https://www.turing.ac.uk/research/interest-groups/environment-and-sustainability), The Alan Turing Institute
 
-**2020/09** - Promoted to UKRI Band F, ~equivalent to Reader/Associate Professor
+**2020/09** - Promotion, ~equivalent to Reader/Associate Professor
 
 **2020/06** - Joined the Steering Committee for the [Alan Turing Institute-UK Met Office operational alliance](https://www.metoffice.gov.uk/about-us/press-office/news/corporate/2020/alan-turing-institute)
 
@@ -71,17 +71,17 @@ As my [group](/group) has quickly grown this past year I am currently unable to 
 
 **2020/02** - Presented at a industry-focused workshop [_"Business Risk from Climate Change"_](https://www.jbs.cam.ac.uk/faculty-research/centres/risk/news-events/events/2020-events/business-risk-from-climate-change/), Judge Business School, Cambridge
 
-**2019/04** - Started new role as Co-Director for the UKRI Centre for Doctoral Training in the [Application of AI to the study of Environmental Risks](https://ai4er-cdt.esc.cam.ac.uk/) (AI4ER), led by University of Cambridge and BAS
+**2019/09** - Started new role as Co-Director for the UKRI Centre for Doctoral Training in the [Application of AI to the study of Environmental Risks](https://ai4er-cdt.esc.cam.ac.uk/) (AI4ER), led by University of Cambridge and BAS
 
 **2018/06** - Established and self-appointed Leader of the [BAS Artificial Intelligence (AI) Lab](http://www.bas.ac.uk/ai)
 
 **2017/09** - Awarded [The Laws Prize](https://basclub.org/about/the-laws-prize/), British Antarctic Survey Club
 
-**2016/09** - Promoted to UKRI Band E, ~equivalent to Lecturer. Changed role to _"Environmental Data Scientist"_
+**2016/09** - Promotion, ~equivalent to Lecturer. Changed role to _"Environmental Data Scientist"_
 
 **2011/01** - Co-founded and became board member for the [Cambridge Centre for Climate Science](https://www.climatescience.cam.ac.uk/) (CCfCS)
 
-**2009/12** - Joined British Antarctic Survey (BAS) as a _"Global Climate Modeller"_, tenured/open-ended position (NERC Band 6, ~equivalent to Post-doctoral Research Associate)
+**2009/12** - Joined British Antarctic Survey (BAS) as a _"Global Climate Modeller"_, tenured/open-ended position ~equivalent to Post-doctoral Research Associate
 
 **2009/09** - Submitted PhD Thesis, [_"The impact of deep convection on the structure of, and transport through, the tropical tropopause layer"_](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.604249), University of Cambridge, UK
 
