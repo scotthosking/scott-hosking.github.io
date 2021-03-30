@@ -33,7 +33,7 @@ feature_row:
 ---
 
 I am an _Environmental Data Scientist_, founder and Co-Leader of the [Artificial Intelligence (AI) Lab](http://www.bas.ac.uk/ai) at the [British Antarctic Survey](http://www.bas.ac.uk) (BAS), and a Senior Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/). 
-I am also a Co-Director for the University of Cambridge Centre for Doctoral Training (CDT) in the [Application of AI to the study of Environmental Risks](https://ai4er-cdt.esc.cam.ac.uk/) (AI4ER), a £6m UKRI funded programme to train over 50 top students to become future global leaders in environmental science. 
+I am also a Co-Director for the University of Cambridge and BAS Centre for Doctoral Training (CDT) in the [Application of AI to the study of Environmental Risks](https://ai4er-cdt.esc.cam.ac.uk/) (AI4ER), a £6m UKRI funded programme to train over 50 top students to become future global leaders in environmental science. 
 
 My research focuses on the application of AI and data science methods for understanding, monitoring and predicting environmental change. 
 
@@ -49,3 +49,19 @@ As my [group](/group) has quickly grown this past year I am currently unable to 
 
 ## Highlights
 {% include feature_row %}
+
+## News
+<!-- 2021/04 - Appointed as a NERC Constructing a Digital Environment (CDE) Senior Expert -->
+2021/04 - Started sharing the role of Leader of the BAS AI Lab with Professor Maria Fox
+2021/03 - Presented at the [AI UK](https://www.turing.ac.uk/ai-uk) 2021 showcase event 
+2021/02 - PI to a new large research programme, "Environmental models: Bridging the spatial scales, from surface sensors to satellite sensors"
+2020/09 - Promoted to UKRI Band F, equivalent to Associate Professor
+2020/04 - Seconded to The Alan Turing Institute to lead the Environmental Theme under the Data Science for Science programme
+2019/04 - Started new role as Co-Director for the UKRI Centre for Doctoral Training in the Application of AI to the study of Environmental Risks (AI4ER)
+2018/06 - Established and became Leader of the BAS AI Lab
+2017/09 - Awarded The Laws Prize, British Antarctic Survey Club 
+2016/09 - Promoted to UKRI Band E, equivalent to Lecturer. Changed role to "Environmental Data Scientist"
+2009/12 - Joined BAS as a "Global Climate Modeller" (NERC Band 6, now UKRI Band D)
+2011/01 - Co-founded and became board member for the Cambridge Centre for Climate Science (CCfCS)
+2009/09 - Submitted PhD Thesis
+2005/09 - Started PhD at the University of Cambridge, UK, under the supervision of Prof John Pyle FRS
