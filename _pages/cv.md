@@ -34,6 +34,7 @@ toc: True
 * Co-Chair, BAS Technical Design Authority, 2017-
 * Deputy Chair, [Cambridge Earth System Science DTP](http://essdtp.esc.cam.ac.uk/), University of Cambridge, 2017-18 
 * Secretary, [Global Environmental Research Committee](https://royalsociety.org/topics-policy/energy-environment-climate/global-environmental-research-committee/), The Royal Society, 2016-2017
+* Innovation Champion, BAS, 2014-2016
 
 ## Teaching
 * Machine Learning and the Physical World, University of Cambridge, 2020
