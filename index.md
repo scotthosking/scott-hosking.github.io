@@ -6,29 +6,29 @@ layout: single
 author_profile: true
 
 feature_row:
-  - image_path: /images/research/arctic_ice_loss.jpg
+  - image_path: /images/research/envsensors_main.jpg
+    title: "Environmental monitoring: blending satellite and surface data"
+    excerpt: "Project Leader: Environmental monitoring: blending satellite and surface data"
+    url: "https://www.turing.ac.uk/research/research-projects/environmental-monitoring-blending-satellite-and-surface-data"
+- image_path: /images/research/arctic_ice_loss.jpg
     title: "Deep learning for Arctic sea ice"
-    excerpt: "Using machine learning techniques to understand the complex interactions between climate and Arctic sea ice"
+    excerpt: "Project Leader: Using machine learning techniques to understand the complex interactions between climate and Arctic sea ice"
     url: "https://www.turing.ac.uk/research/research-projects/understanding-arctic-sea-ice-loss"
   - image_path: /images/research/wwf_spatial_finance.jpg
     title: "Spatial Finance: Challenges and Opportunities"
-    excerpt: "A new geospatial driven approach with the potential to help financial markets"
+    excerpt: "Co-author: A new geospatial driven approach with the potential to help financial markets"
     url: "https://wwf-sight.org/spatial-finance-challenges-and-opportunities/"
   - image_path: /images/research//iceberg_tracking.jpg
     title: "Tracking iceberg populations"
-    excerpt: "Using machine learning to develop new methods to detect and track icebergs in radar satellite imagery"
+    excerpt: "Co-investigator: Using machine learning to develop new methods to detect and track icebergs in radar satellite imagery"
     url: "https://www.turing.ac.uk/research/research-projects/improving-tracking-iceberg-populations-southern-ocean"
-  - image_path: /images/research/business_risks4.png
-    title: "Business risk from climate change"
-    excerpt: "Quantifying risks of extreme weather and disruption to businesses and supply chains"
-    url: "https://www.bas.ac.uk/media-post/climate-scientists-help-businesses-tackle-climate-change/"
   - image_path: /images/research/wind_turbines.jpg
     title: "Wind energy in a 1.5˚C world"
-    excerpt: "The UK and large parts of Europe could become windier if global temperatures reach 1.5˚C above pre-industrial levels"
+    excerpt: "Lead author: The UK and large parts of Europe could become windier if global temperatures reach 1.5˚C above pre-industrial levels"
     url: "https://www.bas.ac.uk/media-post/european-wind-energy-generation-potential-in-a-1-5%cb%9ac-warmer-world/"
   - image_path: /images/research/asl_index-crop3.png
     title: "West Antarctic climate index"
-    excerpt: "Disentangling environmental signals over the region with greatest climate variability in the Southern Hemisphere"
+    excerpt: "Lead researcher: Disentangling environmental signals over the region with greatest climate variability in the Southern Hemisphere"
     url: "/asl_index"
 ---
 
@@ -57,17 +57,17 @@ As my [group](/group) has quickly grown this past year I am currently unable to 
 
 **2021/03** - Presented at the [AI UK](https://www.turing.ac.uk/ai-uk) 2021 showcase event
 
-**2021/02** - Became Principal Investigator (PI) to a new multi-institution research programme, _"Environmental models: Bridging the spatial scales, from surface sensors to satellite sensors"_
+**2021/02** - Became Principal Investigator (PI) to a multi-institution research programme, [Environmental monitoring: blending satellite and surface data](https://www.turing.ac.uk/research/research-projects/environmental-monitoring-blending-satellite-and-surface-data)
 
 **2020/10** - Joined the Steering Committee for the [Environment and Sustainability Interest Group](https://www.turing.ac.uk/research/interest-groups/environment-and-sustainability), The Alan Turing Institute
 
 **2020/09** - Promotion, ~equivalent to Reader/Associate Professor
 
-**2020/06** - Joined the Steering Committee for the [Alan Turing Institute-UK Met Office operational alliance](https://www.metoffice.gov.uk/about-us/press-office/news/corporate/2020/alan-turing-institute)
+**2020/06** - Joined the Steering Committee for [The Alan Turing Institute-UK Met Office operational alliance](https://www.metoffice.gov.uk/about-us/press-office/news/corporate/2020/alan-turing-institute)
 
 **2020/04** - Seconded to [The Alan Turing Institute](https://www.turing.ac.uk/) to lead the Environmental Theme under the [Data Science for Science programme](https://www.turing.ac.uk/research/research-programmes/data-science-science)
 
-**2020/04** - Appointed BAS Science Group Leader, _"AI for Climate Science"_
+**2020/04** - Appointed BAS Science Group Leader, "AI for Climate Science"
 
 **2019/09** - Started new role as Co-Director for the UKRI Centre for Doctoral Training in the [Application of AI to the study of Environmental Risks](https://ai4er-cdt.esc.cam.ac.uk/) (AI4ER), led by University of Cambridge and BAS
 
