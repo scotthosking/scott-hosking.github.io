@@ -10,7 +10,7 @@ feature_row:
     title: "Environmental monitoring: blending satellite and surface data"
     excerpt: "Project Leader: Environmental monitoring: blending satellite and surface data"
     url: "https://www.turing.ac.uk/research/research-projects/environmental-monitoring-blending-satellite-and-surface-data"
-- image_path: /images/research/arctic_ice_loss.jpg
+  - image_path: /images/research/arctic_ice_loss.jpg
     title: "Deep learning for Arctic sea ice"
     excerpt: "Project Leader: Using machine learning techniques to understand the complex interactions between climate and Arctic sea ice"
     url: "https://www.turing.ac.uk/research/research-projects/understanding-arctic-sea-ice-loss"
