@@ -22,7 +22,7 @@ I have secured over £7m in grant funding from public and private sectors as bot
     * [Improving tracking of iceberg populations in the Southern Ocean](https://www.turing.ac.uk/research/research-projects/improving-tracking-iceberg-populations-southern-ocean), 2019-2021 (Co-I)
     * Detecting changes in Himalayan glaciers and impacts on water security, 2020-2021 (PI)
 * [Supporting Pangeo: the community-driven platform for Big Data geoscience](https://www.turing.ac.uk/research/research-projects/supporting-pangeo-community-driven-platform-big-data-geoscience), Microsoft AI for Earth, 2020-2021 (Co-I)
-* AI for Earth Observation, European Space Agency (ESA), 2020-2022 (Co-I)
+* [AI for Earth Observation (AI4EO) Accelerator](https://www.bas.ac.uk/project/ai4eoaccelerator/), European Space Agency (ESA), 2020-2022 (Co-I)
 * [Peruvian Glacier Retreat and its Impact on Water Security](https://gtr.ukri.org/projects?ref=NE%2FS013296%2F1) (Peru GROWS), NERC (NE/S013296/1) - Newton-Paulet Fund, 2019-2022 (Co-I)
 * [Emergence of Climate Hazards](https://gtr.ukri.org/projects?ref=NE%2FS004726%2F1), NERC (NE/S004726/1), 2019-2022 (Co-I)
 * [Future Water Security for communities reliant on the Upper Indus, Himalayas](https://gtr.ukri.org/projects?ref=NE%2FR000107%2F1), NERC (NE/R000107/1), 2017-2020 (Co-I)

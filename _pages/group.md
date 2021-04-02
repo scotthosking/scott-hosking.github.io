@@ -4,17 +4,18 @@ title: "Group"
 excerpt: "group"
 ---
 
-I lead a research group within the [BAS AI Lab](https://www.bas.ac.uk/ai) focused on the application of machine learning for environmental science.
+I lead research activities within the [BAS AI Lab](https://www.bas.ac.uk/ai) and [the Turing](https://www.turing.ac.uk/research/research-projects/environment-and-sustainability) focused on the application of machine learning for environmental science.
 
 ## Staff
-* Clare Allen-Sader (Regional Climate Modeller) 
-* Tom Andersson (Deep Learning - Sea Ice)
-* Anita Faul (AI Algorithm Developer - Earth Observation)
-* Grzegorz Muszynski (Data Scientist - Water Security) 
+* Clare Allen-Sader (Climate Modelling, Antarctica) 
+* Tom Andersson (Deep Learning, Polar Science)
+* Alejandro Coca Castro (AI, Environmental Sensors)
+* Anita Faul (AI, Earth Observation)
+* Grzegorz Muszynski (Causality, Water Security) 
 * Tony Phillips (Data and Software Manager)
-* Charles Simpson (Data Scientist - Climate Impacts) 
+* Charles Simpson (Data Science, Climate Impacts) 
 
-_there are many other members working in this area as part of the [BAS AI Lab](https://www.bas.ac.uk/project/ai/#people)_
+_there are many other members working in this area as part of the [BAS AI Lab](https://www.bas.ac.uk/project/ai/#people) and the Turing's [Data Science for Science Programme](https://www.turing.ac.uk/research/research-programmes/data-science-science)_
 
 
 ## PhD Students
