@@ -37,12 +37,12 @@ I am also a Co-Director for the University of Cambridge and BAS Centre for Docto
 
 My research focuses on the application of AI and data science methods for understanding, monitoring and predicting environmental change. 
 
-## We are hiring!!
+<!-- ## We are hiring!!
 * 3 x Machine Learning Engineers/Researchers:
   * [UKRI Salary Band D (Early career researcher)](https://www.bas.ac.uk/jobs/vacancy/machine-learning-engineer-researcher-environmental-science-band-d/)
   * [UKRI Salary Band E (Experienced researcher)](https://www.bas.ac.uk/jobs/vacancy/machine-learning-engineer-researcher-environmental-science-band-e/)
 * 1 x [Research Software Engineer](https://www.bas.ac.uk/jobs/vacancy/it-research-software-engineer/)
-* 1 x [HPC Support Engineer](https://www.bas.ac.uk/jobs/vacancy/hpc-support-engineer/)
+* 1 x [HPC Support Engineer](https://www.bas.ac.uk/jobs/vacancy/hpc-support-engineer/) -->
 
 ## Studentships
 As my [group](/group) has quickly grown this past year I am currently unable to take on any new Masters or PhD students. However, please feel free to reach out directly to my [science colleagues at BAS](https://www.bas.ac.uk/about/about-bas/our-organisation/our-science-teams/) if you are interested in doing a research project together with the [BAS AI Lab](https://www.bas.ac.uk/project/ai). You can find information on PhD funding on our [AI4ER CDT webpage](https://ai4er-cdt.esc.cam.ac.uk/).
@@ -71,7 +71,7 @@ As my [group](/group) has quickly grown this past year I am currently unable to 
 
 **2019/09** - Started new role as Co-Director for the UKRI Centre for Doctoral Training in the [Application of AI to the study of Environmental Risks](https://ai4er-cdt.esc.cam.ac.uk/) (AI4ER), led by University of Cambridge and BAS
 
-**2018/06** - Established and self-appointed Leader of the [BAS Artificial Intelligence (AI) Lab](http://www.bas.ac.uk/ai)
+**2019/06** - Established and self-appointed Leader of the [BAS Artificial Intelligence (AI) Lab](http://www.bas.ac.uk/ai)
 
 **2017/09** - Awarded [The Laws Prize](https://basclub.org/about/the-laws-prize/), British Antarctic Survey Club
 
@@ -81,8 +81,8 @@ As my [group](/group) has quickly grown this past year I am currently unable to 
 
 **2011/01** - Co-founded and became board member for the [Cambridge Centre for Climate Science](https://www.climatescience.cam.ac.uk/) (CCfCS)
 
-**2009/12** - Joined British Antarctic Survey (BAS) as a _"Global Climate Modeller"_, tenured/open-ended position ~equivalent to Post-doctoral Research Associate
+**2009/12** - Joined British Antarctic Survey (BAS) as a _"Global Climate Modeller"_, tenured/open-ended position
 
 **2009/09** - Submitted PhD Thesis, [_"The impact of deep convection on the structure of, and transport through, the tropical tropopause layer"_](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.604249), University of Cambridge, UK
 
-**2005/09** - Started PhD at the University of Cambridge, UK, under the supervision of [Prof John Pyle FRS](https://www.ch.cam.ac.uk/person/jap12). Funded by the [NERC e-Science Programme](https://nerc.ukri.org/research/funded/programmes/escience/)
+**2005/10** - Started PhD at the University of Cambridge, UK, under the supervision of [Prof John Pyle FRS](https://www.ch.cam.ac.uk/person/jap12). Funded by the [NERC e-Science Programme](https://nerc.ukri.org/research/funded/programmes/escience/)
