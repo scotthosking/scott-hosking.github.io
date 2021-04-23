@@ -35,7 +35,23 @@ feature_row:
 I am an _Environmental Data Scientist_, founder and Co-Leader of the [Artificial Intelligence (AI) Lab](http://www.bas.ac.uk/ai) at the [British Antarctic Survey](http://www.bas.ac.uk) (BAS), and a Senior Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/). 
 I am also a Co-Director for the University of Cambridge and BAS Centre for Doctoral Training (CDT) in the [Application of AI to the study of Environmental Risks](https://ai4er-cdt.esc.cam.ac.uk/) (AI4ER), a £6m UKRI funded programme to train over 50 top students to become future global leaders in environmental science. 
 
-My research focuses on the application of AI and data science methods for understanding, monitoring and predicting environmental change. 
+
+
+
+<!-- 
+
+Broadly, my research focuses on the development of AI and data science methods for understanding, monitoring and predicting environmental change. My group covers a range of science areas including: 
+use of earth observation data and blending with localised surface sensors
+localised climate prediction and impacts, heatwaves and precipitation for water security
+deep learning for seasonal forecasting, 
+computer vision for tracking changes including icebergs and .wildlife conservation.
+
+I serve on the steering committee to manage the [operational alliance between The Alan Turing Institute and the UK Met Office operational alliance](https://www.metoffice.gov.uk/about-us/press-office/news/corporate/2020/alan-turing-institute), and as a board member for the [Cambridge Centre for Climate Science](https://www.climatescience.cam.ac.uk/).
+
+
+ -->
+
+
 
 <!-- ## We are hiring!!
 * 3 x Machine Learning Engineers/Researchers:
