@@ -32,16 +32,16 @@ feature_row:
     url: "/asl_index"
 ---
 
-I am an _Environmental Data Scientist_, founder and Co-Leader of the [Artificial Intelligence (AI) Lab](http://www.bas.ac.uk/ai) at the [British Antarctic Survey](http://www.bas.ac.uk) (BAS), and a Senior Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/). 
+I am an _Environmental Data Scientist_, Co-Leader of the [Artificial Intelligence (AI) Lab](http://www.bas.ac.uk/ai) at the [British Antarctic Survey](http://www.bas.ac.uk) (BAS), and a Senior Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/). 
 I am also a Co-Director for the University of Cambridge and BAS Centre for Doctoral Training (CDT) in the [Application of AI to the study of Environmental Risks](https://ai4er-cdt.esc.cam.ac.uk/) (AI4ER), a £6m UKRI funded programme to train over 50 top students to become future global leaders in environmental science. 
 
 My research group focuses on the development of AI and data science methods for understanding, monitoring and predicting environmental change. More specifically, my projects involve: 
 the intelligent fusion of data from satellite and in-situ surface sensors to help understand our changing planet; 
 probabilistic machine learning for localised climate impacts, including future heatwaves and water security;
-deep learning frameworks and interpretability methods for seasonal forecasting; 
+deep learning frameworks for seasonal forecasting and improving climate models; 
 and computer vision methods for tracking environmental change and wildlife monitoring.
 
-I serve on the steering committee to manage the [operational alliance between The Alan Turing Institute and the UK Met Office operational alliance](https://www.metoffice.gov.uk/about-us/press-office/news/corporate/2020/alan-turing-institute), and as a board member for the [Cambridge Centre for Climate Science](https://www.climatescience.cam.ac.uk/).
+I serve on the steering committee to manage the [operational alliance](https://www.metoffice.gov.uk/about-us/press-office/news/corporate/2020/alan-turing-institute) between The Alan Turing Institute and the UK Met Office, and as a board member for the [Cambridge Centre for Climate Science](https://www.climatescience.cam.ac.uk/).
 
 
 <!-- ## We are hiring!!
@@ -78,11 +78,13 @@ As my [group](/group) has quickly grown this past year I am currently unable to 
 
 **2019/09** - Started new role as Co-Director for the UKRI Centre for Doctoral Training in the [Application of AI to the study of Environmental Risks](https://ai4er-cdt.esc.cam.ac.uk/) (AI4ER), led by University of Cambridge and BAS
 
-**2019/06** - Established and self-appointed Leader of the [BAS Artificial Intelligence (AI) Lab](http://www.bas.ac.uk/ai)
+**2019/06** - Established and Leader of the [BAS Artificial Intelligence (AI) Lab](http://www.bas.ac.uk/ai)
 
 **2017/09** - Awarded [The Laws Prize](https://basclub.org/about/the-laws-prize/), British Antarctic Survey Club
 
 **2016/09** - Promotion, ~equivalent to Lecturer. Changed role to _"Environmental Data Scientist"_
+
+**2016/05** - Appointed as Secretary, [Global Environmental Research Committee](https://royalsociety.org/topics-policy/energy-environment-climate/global-environmental-research-committee/), The Royal Society 
 
 **2014/09** - Appointed as Innovation Champion, BAS 
 
