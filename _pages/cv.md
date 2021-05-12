@@ -23,6 +23,7 @@ toc: True
     *  _awarded to outstanding young scientists of the British Antarctic Survey in recognition of their achievements, whilst fulfilling the primary purpose of the British Antarctic Survey_
 
 ## Other Roles
+* Senior Expert, [Constructing a Digital Environment Strategic Priorities Fund programme](https://digitalenvironment.org/), Natural Environment Research Council (NERC), 2021-
 * Committee Member, [Environment and Sustainability Interest Group](https://www.turing.ac.uk/research/interest-groups/environment-and-sustainability), The Alan Turing Institute, 2020-
 * Committee Member, [The Alan Turing Institute-UK Met Office Operational Alliance](https://www.metoffice.gov.uk/about-us/press-office/news/corporate/2020/alan-turing-institute), 2020-
 * Chair, [AI4ER](https://ai4er-cdt.esc.cam.ac.uk/) Research Committee, University of Cambridge, 2019-2020
