@@ -58,7 +58,7 @@ As my [group](/group) has quickly grown this past year I am currently unable to 
 {% include feature_row %}
 
 ## News
-<!-- **2021/04** - Appointed as a Senior Expert to the [NERC Constructing a Digital Environment (CDE) Programme](https://digitalenvironment.org/)  -->
+**2021/05** - Appointed as a Senior Expert to the [NERC Constructing a Digital Environment (CDE) Programme](https://digitalenvironment.org/) 
 
 **2021/04** - Started sharing the role of Leader of the BAS AI Lab with Professor Maria Fox
 
