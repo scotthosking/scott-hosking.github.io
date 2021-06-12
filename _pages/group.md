@@ -7,13 +7,14 @@ excerpt: "group"
 I lead research activities within the [BAS AI Lab](https://www.bas.ac.uk/ai) and [the Turing](https://www.turing.ac.uk/research/research-projects/environment-and-sustainability) focused on the application of machine learning for environmental science.
 
 ## Staff
-* Clare Allen-Sader (Climate Modelling, Antarctica) 
-* Tom Andersson (Deep Learning, Polar Science)
-* Alejandro Coca Castro (AI, Environmental Sensors)
-* Anita Faul (AI, Earth Observation)
-* Grzegorz Muszynski (Causality, Water Security) 
-* Tony Phillips (Data and Software Manager)
-* Charles Simpson (Data Science, Climate Impacts) 
+* Clare Allen-Sader, BAS (Climate Modelling, Antarctica) 
+* Tom Andersson, BAS AI Lab (Deep Learning, Polar Science)
+* James Byrne, BAS AI Lab (Research Software Engineer)
+* Alejandro Coca Castro, Turing (AI, Environmental Sensors)
+* Anita Faul, BAS AI Lab (AI, Earth Observation)
+* Grzegorz Muszynski, BAS AI Lab (Causality, Water Security) 
+* Tony Phillips, BAS (Data and Software Manager)
+* Charles Simpson, BAS AI Lab (Data Science, Climate Impacts) 
 
 _there are many other members working in this area as part of the [BAS AI Lab](https://www.bas.ac.uk/project/ai/#people) and the Turing's [Data Science for Science Programme](https://www.turing.ac.uk/research/research-programmes/data-science-science)_
 
@@ -30,10 +31,10 @@ _there are many other members working in this area as part of the [BAS AI Lab](h
     * [Turing Enrichment Student](https://www.turing.ac.uk/people/enrichment-students/risa-ueno), The Alan Turing Institute
 * Michelle Wan (University of Cambridge, 2020-), Co-supervisor with Pietro Liò and Alex Archibald
 
-## Masters Students
-* Eleanor Krige (University of Cambridge, MSci/Part III, 2021)
+<!-- ## Masters Students -->
 
 ## Completed students & past members
+* Eleanor Krige (University of Cambridge, MSci/Part III, 2021)
 * Marc Girona-Mata (University of Cambridge, MRes, 2020), Co-supervisor with Rich Turner
 * Tudor Suciu (BAS & University of Cambridge, MRes, 2020), Co-supervisor with Hamish Pritchard
 * Kenza Tazi (BAS & University of Cambridge, MRes, 2020)
