@@ -7,8 +7,8 @@ author_profile: true
 
 feature_row:
   - image_path: /images/research/envsensors_main.jpg
-    title: "Environmental monitoring with AI"
-    excerpt: "Project Leader: Blending satellite and surface data"
+    title: "Digital Twinning for the natural environment"
+    excerpt: "Project Leader: Blending satellite, surface and simulation data"
     url: "https://www.turing.ac.uk/research/research-projects/environmental-monitoring-blending-satellite-and-surface-data"
   - image_path: /images/research/arctic_ice_loss.jpg
     title: "Deep learning for Arctic sea ice"
@@ -40,6 +40,8 @@ the intelligent fusion of data from satellite and in-situ surface sensors to hel
 probabilistic machine learning for localised climate impacts, including future heatwaves and water security;
 deep learning frameworks for seasonal forecasting and improving climate models; 
 and computer vision methods for tracking environmental change and wildlife monitoring.
+
+The overarching aim of my research is developing the components for [Digital Twins of the natural environment](https://www.turing.ac.uk/research/research-projects/environmental-monitoring-blending-satellite-and-surface-data). These components are being designed to work across varying spatial and temporal scales, and geographies (from urban environments up to the Antarctic continent).
 
 I serve on the steering committee to manage the [operational alliance](https://www.metoffice.gov.uk/about-us/press-office/news/corporate/2020/alan-turing-institute) between The Alan Turing Institute and the UK Met Office, and as a board member for the [Cambridge Centre for Climate Science](https://www.climatescience.cam.ac.uk/).
 
