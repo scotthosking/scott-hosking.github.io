@@ -41,7 +41,7 @@ probabilistic machine learning for localised climate impacts, including future h
 deep learning frameworks for seasonal forecasting and improving climate models; 
 and computer vision methods for tracking environmental change and wildlife monitoring.
 
-The overarching aim of my research is developing the components for [Digital Twins of the natural environment](https://www.turing.ac.uk/research/research-projects/environmental-monitoring-blending-satellite-and-surface-data). These components are being designed to work across varying spatial and temporal scales, and geographies (from urban environments up to the Antarctic continent).
+The overarching aim of my research is in developing [Digital Twins of the natural environment](https://www.turing.ac.uk/research/research-projects/environmental-monitoring-blending-satellite-and-surface-data) to improve scientific understanding and aid decision making. The digital twinning frameworks are designed to work across varying spatial and temporal scales, and geographies (from urban environments up to the Antarctic continent).
 
 I serve on the steering committee to manage the [operational alliance](https://www.metoffice.gov.uk/about-us/press-office/news/corporate/2020/alan-turing-institute) between The Alan Turing Institute and the UK Met Office, and as a board member for the [Cambridge Centre for Climate Science](https://www.climatescience.cam.ac.uk/).
 
