@@ -4,7 +4,7 @@ title: "Group"
 excerpt: "group"
 ---
 
-I lead research activities within the [BAS AI Lab](https://www.bas.ac.uk/ai) and [the Turing](https://www.turing.ac.uk/research/research-projects/environment-and-sustainability) focused on the application of machine learning for environmental science, and the develop of digital twins of the natural environment.
+I lead research activities within the [BAS AI Lab](https://www.bas.ac.uk/ai) and [the Turing](https://www.turing.ac.uk/research/research-projects/environment-and-sustainability) focused on the application of machine learning for environmental science, and the development of digital twins of the natural environment.
 
 ## Staff
 * Clare Allen-Sader, BAS (Climate Modelling, Antarctica) 
