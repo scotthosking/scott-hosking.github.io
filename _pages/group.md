@@ -6,14 +6,15 @@ excerpt: "group"
 
 I lead research activities within the [BAS AI Lab](https://www.bas.ac.uk/ai) and [the Turing](https://www.turing.ac.uk/research/research-projects/environment-and-sustainability) focused on the application of machine learning for environmental science, and the development of digital twins of the natural environment.
 
-## Staff
-* Clare Allen-Sader, BAS (Climate Modelling, Antarctica) 
+## Research Staff
 * Tom Andersson, BAS AI Lab (Deep Learning, Polar Science)
 * James Byrne, BAS AI Lab (Research Software Engineer)
-* Alejandro Coca Castro, Turing (AI, Environmental Sensors)
-* Anita Faul, BAS AI Lab (AI, Earth Observation)
+* Ben Evans, BAS AI Lab (Machine Learning, Earth Observation)
+* Alejandro Coca Castro, Turing (Machine Learning, Environmental Sensors)
+* Anita Faul, BAS AI Lab (Machine Learning, Earth Observation)
 * Grzegorz Muszynski, BAS AI Lab (Causality, Water Security) 
 * Tony Phillips, BAS (Data and Software Manager)
+* Martin Rogers (Machine Learning, Earth Observation)
 * Charles Simpson, BAS AI Lab (Data Science, Climate Impacts) 
 
 _there are many other members working in this area as part of the [BAS AI Lab](https://www.bas.ac.uk/project/ai/#people) and the Turing's [Data Science for Science Programme](https://www.turing.ac.uk/research/research-programmes/data-science-science)_
@@ -35,6 +36,7 @@ _there are many other members working in this area as part of the [BAS AI Lab](h
 
 ## Completed students & past members
 * Eleanor Krige (University of Cambridge, MSci/Part III, 2021)
+* Clare Allen-Sader (BAS, Post-Doc, 2019-2021) 
 * Marc Girona-Mata (University of Cambridge, MRes, 2020), Co-supervisor with Rich Turner
 * Tudor Suciu (BAS & University of Cambridge, MRes, 2020), Co-supervisor with Hamish Pritchard
 * Kenza Tazi (BAS & University of Cambridge, MRes, 2020)

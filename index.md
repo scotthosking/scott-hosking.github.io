@@ -54,7 +54,7 @@ I serve on the steering committee to manage the [operational alliance](https://w
 * 1 x [HPC Support Engineer](https://www.bas.ac.uk/jobs/vacancy/hpc-support-engineer/) -->
 
 ## Studentships
-As my [group](/group) has quickly grown this past year I am currently unable to take on any new Masters or PhD students. However, please feel free to reach out directly to my [science colleagues at BAS](https://www.bas.ac.uk/about/about-bas/our-organisation/our-science-teams/) if you are interested in doing a research project together with the [BAS AI Lab](https://www.bas.ac.uk/project/ai). You can find information on PhD funding on our [AI4ER CDT webpage](https://ai4er-cdt.esc.cam.ac.uk/).
+My [group](/group) has quickly grown over the past few years and as such I am currently unable to take on any new Masters or PhD students. However, please feel free to reach out directly to my [science colleagues at BAS](https://www.bas.ac.uk/about/about-bas/our-organisation/our-science-teams/) if you are interested in doing a research project together with the [BAS AI Lab](https://www.bas.ac.uk/project/ai). You can find information on PhD funding on our [AI4ER CDT webpage](https://ai4er-cdt.esc.cam.ac.uk/).
 
 ## Highlights
 {% include feature_row %}

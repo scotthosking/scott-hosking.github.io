@@ -16,8 +16,9 @@ In order to support business and policy decision making we aim to apply AI and d
 ## Funding
 I have secured over £7m in grant funding from public and private sectors as both Principal-Investigator (PI) and Co-Investigator (Co-I). These include:
 
-* Four projects funded by The Alan Turing Institute, under the Strategic Priorities Fund "[AI for Science, Engineering, Health and Government](https://gtr.ukri.org/projects?ref=EP%2FT001569%2F1#/tabOverview)" (EP/T001569/1):
+* Five projects funded by The Alan Turing Institute, under the Strategic Priorities Fund "[AI for Science, Engineering, Health and Government](https://gtr.ukri.org/projects?ref=EP%2FT001569%2F1#/tabOverview)" (EP/T001569/1):
     * [Environmental monitoring: blending satellite and surface data](https://www.turing.ac.uk/research/research-projects/environmental-monitoring-blending-satellite-and-surface-data), 2021-2023 (PI)
+    * [Scivision: A toolkit for scientific image analysis](https://github.com/alan-turing-institute/scivision), 2021-2022 (Co-I)
     * [Understanding Arctic sea ice loss](https://www.turing.ac.uk/research/research-projects/understanding-arctic-sea-ice-loss), 2019-2021 (PI)
     * [Improving tracking of iceberg populations in the Southern Ocean](https://www.turing.ac.uk/research/research-projects/improving-tracking-iceberg-populations-southern-ocean), 2019-2021 (Co-I)
     * Detecting changes in Himalayan glaciers and impacts on water security, 2020-2021 (PI)
@@ -34,17 +35,20 @@ Microsoft AI for Earth |
 Microsoft Research Lab - Cambridge | 
 European Space Agency (ESA) | 
 UK Met Office | 
+European Centre for Medium-Range Weather Forecasts |
 Science and Technology Facilities Council | 
 University of Cambridge | 
 University of Lancaster | 
+University of Oxford | 
 Google DeepMind | 
-European Bank for Reconstruction and Developement | 
+World Wide Fund for Nature | 
 Max Fordham | 
 Mott MacDonald | 
 Centre for Science and Policy (CSaP) | 
 Department of Business Environment, Innovation and Skills (BEIS) | 
 Department of Food and Rural Affairs (DEFRA) | 
-University College London | UCL Centre for Artificial Intelligence |
+University College London | 
+UCL Centre for Artificial Intelligence |
 University of Exeter | 
 National Oceanography Centre | 
 Alfred Wegener Institute for Polar & Marine Research
