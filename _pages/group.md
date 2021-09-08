@@ -11,14 +11,10 @@ I lead research activities within the [BAS AI Lab](https://www.bas.ac.uk/ai) and
 * James Byrne, BAS AI Lab (Research Software Engineer)
 * Ben Evans, BAS AI Lab (Machine Learning, Earth Observation)
 * Alejandro Coca Castro, Turing (Machine Learning, Environmental Sensors)
-* Anita Faul, BAS AI Lab (Machine Learning, Earth Observation)
-* Grzegorz Muszynski, BAS AI Lab (Causality, Water Security) 
 * Tony Phillips, BAS (Data and Software Manager)
 * Martin Rogers (Machine Learning, Earth Observation)
-* Charles Simpson, BAS AI Lab (Data Science, Climate Impacts) 
 
 _there are many other members working in this area as part of the [BAS AI Lab](https://www.bas.ac.uk/project/ai/#people) and the Turing's [Data Science for Science Programme](https://www.turing.ac.uk/research/research-programmes/data-science-science)_
-
 
 ## PhD Students
 * Matt Amos (University of Lancaster, 2017-), Co-supervisor with Paul Young
@@ -35,6 +31,9 @@ _there are many other members working in this area as part of the [BAS AI Lab](h
 <!-- ## Masters Students -->
 
 ## Completed students & past members
+* Charles Simpson (BAS, Post-Doc, 2019-2021)
+* Anita Faul (BAS, Post-Doc, 2018-2021)
+* Grzegorz Muszynski (BAS, Post-Doc, 2020-2021) 
 * Eleanor Krige (University of Cambridge, MSci/Part III, 2021)
 * Clare Allen-Sader (BAS, Post-Doc, 2019-2021) 
 * Marc Girona-Mata (University of Cambridge, MRes, 2020), Co-supervisor with Rich Turner
